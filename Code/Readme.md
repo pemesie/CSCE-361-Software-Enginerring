@@ -1,0 +1,4 @@
+- all entity classes should be within the rim package
+- all GUI classes should be within the applicatio package
+-the main class is application.main
+- connectionFactory contains methods to make and close connections with mySql
